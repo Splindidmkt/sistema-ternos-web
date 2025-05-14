@@ -1,7 +1,11 @@
+// frontend/src/App.tsx
+import React from 'react';
 import PainelDePedido from './PainelDePedido';
 
-function App() {
-  return <PainelDePedido />;
+export default function App() {
+  return (
+    <div>
+      <PainelDePedido />
+    </div>
+  );
 }
-
-export default App;
