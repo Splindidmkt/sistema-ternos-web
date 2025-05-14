@@ -1,1 +1,0 @@
-/* conteúdo do React que já está no canvas (copiado acima) */
